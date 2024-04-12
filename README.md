@@ -6,11 +6,9 @@ A repository of my analysis of the palmer penguins dataset. The data set is avai
 
 ### Background
 
-Penguins.ipynb project
+This penguins.ipynb repository explores the Palmers penguin dataset providing an overview of variable types and suggesting Python modeling strategies. In this analysis the variable types of the attributes of the three species of penguins has been classified. 
 
-### Use of This Project
-
-Why this project is useful
+Numerical variables and categorical variables were summarized suitable plots for visual representation. These plots include bar charts, histograms, heatmaps and scatter plots. The project aims to provide a well-documented and insightful examination of the dataset, highlighting key patterns and characteristics.  
 
 ### Get Started
 
@@ -21,7 +19,5 @@ How to run this code:
 4. Open Repository in VS Code
 5. Run in VS Code
 
-### Getting Help
-
-### Author
+### Author Theresa Smyth
 
